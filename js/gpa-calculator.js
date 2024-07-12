@@ -678,29 +678,49 @@ let regulations = {
             ],
             "Semester 2": [
                 {
-                    "subject": "Communicative English",
-                    "credit": 3
-                },
-                {
-                    "subject": "Advanced Calculus and Complex Analysis",
-                    "credit": 4
-                },
-                {
-                    "subject": "Semiconductor Physics and Computational Methods",
-                    "credit": 5
-                },
-                {
-                    "subject": "Engineering Graphics and Design",
+                    "subject": "HS3252 Professional English - II",
                     "credit": 2
                 },
                 {
-                    "subject": "Electrical and Electronics Engineering",
+                    "subject": "MA3251 Statistics and Numerical Methods",
                     "credit": 4
                 },
                 {
-                    "subject": "Object Oriented Design and Programming",
+                    "subject": "PH3252 Materials Science for Biotechnologists",
                     "credit": 3
-                }
+                },
+                {
+                    "subject": "BE3252 Basic Electrical, Electronics and Instrumentation Engineering",
+                    "credit": 3
+                },
+                {
+                    "subject": "GE3251 Engineering Graphics",
+                    "credit": 4
+                },
+                {
+                    "subject": "BT3201 Bioorganic Chemistry",
+                    "credit": 3
+                },
+                {
+                    "subject": "GE3252 Tamils and Technology",
+                    "credit": 1
+                },
+                {
+                    "subject": "NCC Credit Course Level 1",
+                    "credit": 2
+                },
+                {
+                    "subject": "GE3271 Engineering Practices Laboratory",
+                    "credit": 2
+                },
+                {
+                    "subject": "BT3211 Bioorganic Chemistry Laboratory",
+                    "credit": 2
+                },
+                {
+                    "subject": "GE3272 Communication Laboratory / Foreign Language",
+                    "credit": 2
+                    
             ],
             "Semester 3": [
                 {
