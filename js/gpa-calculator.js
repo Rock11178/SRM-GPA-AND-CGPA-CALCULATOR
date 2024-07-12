@@ -636,11 +636,11 @@ let regulations = {
         }
     },
     "2021": {
-        "CSE": {
+        "BIOTECHNOLOGY": {
             "Semester 1": [
                 {
-                    "subject": "Chinese / French / German / Japanese / Korean / Spanish",
-                    "credit": 3
+                    "subject": "Communicative English",
+                    "credit": 4
                 },
                 {
                     "subject": "Philosophy of Engineering",
