@@ -1,5 +1,5 @@
 let regulations = {
-    "2018": {
+    "2017": {
         "CSE": {
             "Semester 1": [
                 {
