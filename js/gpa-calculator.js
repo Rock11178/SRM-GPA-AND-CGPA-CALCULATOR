@@ -639,33 +639,42 @@ let regulations = {
         "BIOTECHNOLOGY": {
             "Semester 1": [
                 {
-                    "subject": "Communicative English",
+                    "subject": "Professional English - I  HS3152",
+                    "credit": 3
+                },
+                {
+                    "subject": "Matrices and Calculus MA3151",
                     "credit": 4
                 },
                 {
-                    "subject": "Philosophy of Engineering",
+                    "subject": "Engineering Physics PH3151",
+                    "credit": 3
+                },
+                {
+                    "subject": "Engineering Chemistry CY3151",
+                    "credit": 3
+                },
+                {
+                    "subject": "Problem Solving and Python Programming GE3151",
+                    "credit": 3
+                },
+                {
+                    "subject": "Heritage of Tamils GE3152",
+                    "credit": 3
+                },
+                {
+                    "subject": "Problem Solving and Python Programming Laboratory GE3171",
                     "credit": 2
                 },
                 {
-                    "subject": "Calculus and Linear Algebra",
-                    "credit": 4
-                },
-                {
-                    "subject": "Chemistry",
-                    "credit": 5
-                },
-                {
-                    "subject": "Introduction to Computational Biology",
+                    "subject": "Physics and Chemistry Laboratory BS3171",
                     "credit": 2
                 },
                 {
-                    "subject": "Programming for Problem Solving",
-                    "credit": 4
-                },
-                {
-                    "subject": "Basic Civil and Mechanical Workshop",
-                    "credit": 2
+                    "subject": "English Laboratory GE3172",
+                    "credit": 1
                 }
+   
             ],
             "Semester 2": [
                 {
