@@ -720,6 +720,7 @@ let regulations = {
                 {
                     "subject": "GE3272 Communication Laboratory / Foreign Language",
                     "credit": 2
+                }
                     
             ],
             "Semester 3": [
